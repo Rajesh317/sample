@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+vargh
+haiiii
+hhjshjhdjs
+=======
 conf
 dhfbgkdfgh
 fd
