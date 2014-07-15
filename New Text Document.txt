@@ -1,3 +1,6 @@
+One 
+Edited to chk merge
+
 vargh
 haiiii
 hhjshjhdjs
@@ -11,14 +14,18 @@ ngf
 hjghnj
 raj
 vargh
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> slave
 
+LEARNING SOURCE TREE
 
 new edit..
 
 
-
+Added by vargehese from My Branch
 
 
 hihihi..........:-)
