@@ -14,11 +14,6 @@ ngf
 hjghnj
 raj
 vargh
-<<<<<<< HEAD
-
-
-=======
->>>>>>> slave
 
 LEARNING SOURCE TREE
 
